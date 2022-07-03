@@ -1,5 +1,5 @@
  hi :wave:  
- i'm pricipal software engineer, currently contribute on agv / amr platform navigation, integration dev  
+ i'm a pricipal software engineer, currently contribute on agv / amr platform navigation, integration dev  
  software architecture design for high precision automation machines    
  
  experienced backend applciations for agv fleets  
