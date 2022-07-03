@@ -6,8 +6,6 @@
 backend / desktop applications experienced: 
  * agv fleets  
  * high-precision automation machines (control, vision)   
- 
---- 
 
 ![C#](https://img.shields.io/badge/c%23-black.svg?style=flat-square&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-black.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -22,7 +20,7 @@ backend / desktop applications experienced:
 ![Shell Script](https://img.shields.io/badge/shell_script-black.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=flat-square&logo=postgresql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)     
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wathanz) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wathanz)   
 [![](https://visitcount.itsvg.in/api?id=wathanz&icon=0&color=0)](https://visitcount.itsvg.in)  
 <!-- ![](https://github-readme-stats.vercel.app/api?username=wathanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
