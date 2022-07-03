@@ -1,9 +1,11 @@
  hi :wave:  
- i'm a pricipal software engineer, currently contribute on agv / amr platform navigation, integration dev  
- software architecture design for high precision automation machines    
+ i'm a principal software engineer. current contribution: 
+ * agv / amr platform navigation, integration dev  
+ * software architecture design for high precision automation machines    
  
- experienced backend applciations for agv fleets  
- high-precision automation machines (control, vision)   
+ experienced backend applciations dev: 
+ * agv fleets  
+ * high-precision automation machines (control, vision)   
  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wathanz) 
