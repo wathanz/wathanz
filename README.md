@@ -24,5 +24,5 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)     
 ---
-[![](https://visitcount.itsvg.in/api?id=wathanz&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=wathanz&icon=0&color=0)](https://visitcount.itsvg.in)  
+<!-- ![](https://github-readme-stats.vercel.app/api?username=wathanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
