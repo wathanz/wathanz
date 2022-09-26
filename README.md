@@ -19,6 +19,7 @@ backend / desktop applications experienced:
 ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV&logoColor=white)  
 ![Shell Script](https://img.shields.io/badge/shell_script-black.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=flat-square&logo=postgresql&logoColor=white) 
+![WPF](https://img.shields.io/badge/WPF-black.svg?style=flat-square&logo=WPF&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)     
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wathanz)   
